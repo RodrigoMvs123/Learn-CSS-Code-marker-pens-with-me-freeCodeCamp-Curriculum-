@@ -2,6 +2,10 @@
 
 https://youtu.be/oEoZaJHc1i0?si=Dd9k_epqll7VHxkV 
 
+https://github.com/RodrigoMvs123/Learn-CSS-Code-marker-pens-with-me-freeCodeCamp-Curriculum-/edit/main/README.md
+
+
+
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
