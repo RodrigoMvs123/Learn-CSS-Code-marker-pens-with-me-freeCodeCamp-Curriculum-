@@ -1,4 +1,5 @@
-# Learn-CSS-Code-marker-pens-with-me-freeCodeCamp-Curriculum-
+
+## Learn-CSS-Code-marker-pens-with-me-freeCodeCamp-Curriculum-
 
 https://youtu.be/oEoZaJHc1i0?si=Dd9k_epqll7VHxkV 
 
@@ -6,6 +7,8 @@ https://github.com/RodrigoMvs123/Learn-CSS-Code-marker-pens-with-me-freeCodeCamp
 
 https://github.com/RodrigoMvs123/Learn-CSS-Code-marker-pens-with-me-freeCodeCamp-Curriculum-/blame/main/README.md
 
+## Source Code
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -23,7 +26,9 @@ index.html
     <h1>CSS Color Markers</h1>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -34,7 +39,9 @@ styles.css
 h1 {
     text-align: center;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -54,7 +61,9 @@ index.html
     <div class="container"></div>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -69,7 +78,9 @@ h1 {
 .container {
     
 }
+```
 
+```html 
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -91,7 +102,9 @@ index.html
     </div>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -113,7 +126,9 @@ h1 {
     width: 200px;
     margin: 10px auto 10px auto;
 }
+```
 
+```html 
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -137,7 +152,9 @@ index.html
     </div>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -162,7 +179,9 @@ h1 {
 .one {
     background-color: red;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -186,7 +205,9 @@ index.html
     </div>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -233,7 +254,9 @@ h1 {
         hsl(240, 56%,  42%)
     );
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -259,7 +282,9 @@ index.html
     </div>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -312,8 +337,9 @@ h1 {
     height: 25px;
     background-color: rgb(255,255,255,0.5);
 }
+```
 
-
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -340,7 +366,9 @@ index.html
     </div>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -403,7 +431,9 @@ h1 {
 .sleeve, .cap {
     display: inline-block;
 }
+```
 
+```html
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -436,7 +466,9 @@ index.html
     </div>
 </body>
 </html>
+```
 
+```css
 Visual Studio Code
 EXPLORER
 OPEN EDITORS
@@ -502,5 +534,6 @@ h1 {
 .sleeve, .cap {
     display: inline-block;
 }
+```
 
 Path ( Browser / Web Application )
